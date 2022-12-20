@@ -7,3 +7,7 @@ Exosomes and extracellular vesicles (EV) are increasingly being explored as circ
 # Code Explanation
 
 Computational methods for 1. aligning images 2. segmenting EV 3. Extracting intensity. Included here are python script and sample data for illustrating how computational analysis was completed for these goals.
+
+# Required Python packages
+
+To run this code, Numpy, Pandas, matplotlib, Glob, scikit-image, and pillow are required.
